@@ -23,7 +23,8 @@ NAVAGATION BAR
 }
 
 .nav-bar .login-signin i {
-    font-size: 30px;
+    font-size: 35px;
+    margin-right: 5px;
     transition: all .4s;
 }
 
