@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <title>Home</title>
-    <?php include("./includes/link-paths-include.php")?>
+    <?php include("./includes/link-paths-include.php");?>
 </head>
 <body>
 
+<?php include("./includes/nav-bar-include.php");?>
 
 
 
