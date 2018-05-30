@@ -4,9 +4,9 @@
     <title>Home</title>
     <?php include("./includes/link-paths-include.php"); ?>
     <link rel="stylesheet" type="text/css" href="general.css">
+    <link rel="stylesheet" type="text/css" href="./includes/includes-stylesheet.css">
 </head>
 <body>
-
     <!-- LOGIN OR REGISTER FORM -->
     <div class="login-signin">
         <div class="container">
@@ -71,9 +71,5 @@
             </div>
         </div>
     </div>
-
-
-
-
 </body>
 </html>

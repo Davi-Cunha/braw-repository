@@ -19,7 +19,7 @@
                 <a href="#">Catalog</a>
             </div>
             <div class="col-md-4">
-                <img src="./img/logo.png">
+                <img src="../homepage/img/logo.png">
             </div>
             <div class="col-md-2">
                 <a href="#">Contact us</a>
