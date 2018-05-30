@@ -14,3 +14,5 @@ integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhk
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
 integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
+<!-- MOBILE VIEWPORT -->
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
