@@ -25,8 +25,8 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="form-inputs">
-                                        <input type="email" placeholder="Email or Username" maxlength="120" autocomplete="off">
-                                        <input type="password" placeholder="Password" autocomplete="off">
+                                        <input type="email" placeholder="Email or Username" maxlength="120" autocomplete="off" role="form" required>
+                                        <input type="password" placeholder="Password" autocomplete="off" role="form" required>
                                     </div>
                                     <div class="col-md-7">
                                         <div class="remember-password">
